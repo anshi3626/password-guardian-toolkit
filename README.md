@@ -121,14 +121,6 @@ PasswordGuardian/
 └── README.md          # This file
 ```
 
-## 🚀 Possible Extensions (for bonus marks)
-- Add a password **generator** (cryptographically secure, via `secrets` module)
-- Store analysis history locally (SQLite) to show strength trends
-- Add a "copy to clipboard" button for generated passwords
-- Package as a standalone `.exe` using PyInstaller
-- Add dark/light theme toggle
-- Localize UI into Hindi/English
 
-## ⚠️ Note on Network Access
-The breach-check feature calls `api.pwnedpasswords.com` over HTTPS, so it
-needs internet access. The strength analyzer works fully offline.
+
+
